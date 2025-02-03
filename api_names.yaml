@@ -1,9 +1,53 @@
+stop delete
+delete 
+revoked
 
-"/androidenterprise:v1/androidenterprise.collectionviewers.delete": delete_collection_viewer
-"/androidenterprise:v1/androidenterprise.collectionviewers.get": get_collection_viewer
-"/androidenterprise:v1/androidenterprise.collectionviewers.list": list_collection_viewers
-"/androidenterprise:v1/androidenterprise.collectionviewers.patch": patch_collection_viewer
-"/androidenterprise:v1/androidenterprise.collectionviewers.update": update_collection_viewer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+update_collection_viewer
 "/androidenterprise:v1/androidenterprise.grouplicenses.get": get_group_license
 "/androidenterprise:v1/androidenterprise.grouplicenses.list": list_group_licenses
 "/androidenterprise:v1/androidenterprise.grouplicenseusers.list": list_group_license_users
