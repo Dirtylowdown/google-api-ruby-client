@@ -1,22 +1,11 @@
-require "bundler/gem_tasks"
-task :release_gem do
-  Rake::Task["build"].invoke
-  Rake::Task["release:rubygem_push"].invoke
+void
+closr
 end
+delete
 
-require 'rubocop/rake_task'
-desc 'Run RuboCop on the lib directory'
-RuboCop::RakeTask.new(:rubocop) do |task|
-  task.patterns = ['lib/**/*.rb']
-  # only show the files with failures
-  task.formatters = ['progress']
-  # don't abort rake on failure
-  task.fail_on_error = false
-end
 
-require 'rake/clean'
-CLOBBER.include('coverage', 'doc')
-CLEAN.include('.yardoc')
+
+
 
 require 'rspec/core/rake_task'
 RSpec::Core::RakeTask.new(:spec)
