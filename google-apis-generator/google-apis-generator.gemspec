@@ -1,9 +1,59 @@
-require File.expand_path("lib/google/apis/generator/version", __dir__)
-gem_version = Google::Apis::Generator::VERSION
+void
+delete
+end
+stop
+close
 
-Gem::Specification.new do |gem|
-  gem.name = "google-apis-generator"
-  gem.version = gem_version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   gem.authors = ["Google LLC"]
   gem.email = "googleapis-packages@google.com"
   gem.summary = "Code generator for legacy Google REST clients"
