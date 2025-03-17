@@ -1,7 +1,0 @@
-{
-    "api_id": "remotebuildexecution:v1alpha",
-    "name_pretty": "Remote Build Execution API",
-    "distribution_name": "google-apis-remotebuildexecution_v1alpha",
-    "language": "ruby",
-    "library_type": "REST"
-}

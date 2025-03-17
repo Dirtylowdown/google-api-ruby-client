@@ -1,7 +1,0 @@
-{
-    "api_id": "cloudtrace:v2",
-    "name_pretty": "Cloud Trace API",
-    "distribution_name": "google-apis-cloudtrace_v2",
-    "language": "ruby",
-    "library_type": "REST"
-}

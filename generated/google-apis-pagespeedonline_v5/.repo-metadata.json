@@ -1,7 +1,0 @@
-{
-    "api_id": "pagespeedonline:v5",
-    "name_pretty": "PageSpeed Insights API",
-    "distribution_name": "google-apis-pagespeedonline_v5",
-    "language": "ruby",
-    "library_type": "REST"
-}

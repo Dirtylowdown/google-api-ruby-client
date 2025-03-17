@@ -1,7 +1,0 @@
-{
-    "api_id": "drive:v2",
-    "name_pretty": "Google Drive API",
-    "distribution_name": "google-apis-drive_v2",
-    "language": "ruby",
-    "library_type": "REST"
-}

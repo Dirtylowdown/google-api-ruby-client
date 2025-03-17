@@ -1,7 +1,0 @@
-{
-    "api_id": "dns:v2",
-    "name_pretty": "Cloud DNS API",
-    "distribution_name": "google-apis-dns_v2",
-    "language": "ruby",
-    "library_type": "REST"
-}

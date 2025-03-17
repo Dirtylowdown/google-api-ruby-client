@@ -1,7 +1,0 @@
-{
-    "api_id": "clouddebugger:v2",
-    "name_pretty": "Cloud Debugger API (Deprecated)",
-    "distribution_name": "google-apis-clouddebugger_v2",
-    "language": "ruby",
-    "library_type": "REST"
-}
