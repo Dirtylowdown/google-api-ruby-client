@@ -1,7 +1,0 @@
-{
-    "api_id": "apigee:v1",
-    "name_pretty": "Apigee API",
-    "distribution_name": "google-apis-apigee_v1",
-    "language": "ruby",
-    "library_type": "REST"
-}

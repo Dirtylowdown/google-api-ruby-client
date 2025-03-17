@@ -1,7 +1,0 @@
-{
-    "api_id": "libraryagent:v1",
-    "name_pretty": "Library Agent API",
-    "distribution_name": "google-apis-libraryagent_v1",
-    "language": "ruby",
-    "library_type": "REST"
-}

@@ -1,7 +1,0 @@
-{
-    "api_id": "cloudprofiler:v2",
-    "name_pretty": "Cloud Profiler API",
-    "distribution_name": "google-apis-cloudprofiler_v2",
-    "language": "ruby",
-    "library_type": "REST"
-}
